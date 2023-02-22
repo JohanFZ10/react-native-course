@@ -8,4 +8,10 @@ const TiposBasicos = () => {
   )
 }
 
+// function MiFuncion(){
+
+// }
+
+
+
 export default TiposBasicos
